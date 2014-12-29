@@ -1,7 +1,14 @@
 Arduino Visualizer
 ==================
 
+[![Build status](https://badge.buildkite.com/3a16951ab18a918b93d8645781dbe5e1cefd752b669b82c52f.svg)](https://buildkite.com/nicarim/arduino-mono-compiler)
+
 Arduino driver used for visualization via BASS and WASAPI
+
+Download
+===
+
+**[Click here to get binaries build against newest master!](http://arduino.mgor.me/aap-newest.zip)**
 
 Usage
 ===
